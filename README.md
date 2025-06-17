@@ -2,7 +2,7 @@
 
 # 🛡️ Hi there, I'm Niroshan Malinga! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=Network+&+Security+Student;Digital+Fortress+Builder;Ethical+Hacker+in+Training;Security+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Digital+Fortress+Builder;Ethical+Hacker+in+Training;Security+Researcher" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
