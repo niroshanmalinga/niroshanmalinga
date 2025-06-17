@@ -12,7 +12,7 @@
 
 <img align="right" alt="Cyber Security" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-🎓 **Cyber Security Student** at South Eastern University of Sri Lanka  
+🎓 **Network & Security Student** at South Eastern University of Sri Lanka  
 💼 **DevOps Trainee** at Sri Lanka Telecom  
 🛡️ **Security-First DevOps Engineer** bridging development and operations  
 🔍 **CI/CD Security Specialist** implementing secure deployment pipelines  
